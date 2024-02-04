@@ -1,5 +1,5 @@
 ### Objective
-Prepare a prototype to detect fire, ring buzzer, send an email alert, and monitor it live through a web server. 
+Prepare a prototype (based on raspberry-pi) to detect fire, ring buzzer, send an email alert, and monitor it live through a web server. 
 
 <details close>	
   <summary> Key Features </summary>
