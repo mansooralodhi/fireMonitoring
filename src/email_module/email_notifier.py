@@ -15,7 +15,7 @@ class EmailNotifier(object):
         self.recipient_file = recipient_file
         self.host_ip = host_ip
         self.host_port = host_port
-        self.sender_address = "s6509106860073@email.kmutnb.ac.th"
+        self.sender_address = "..."
 
     def _get_sender_pass(self):
         password = getpass(f"Please enter password for email: {self.sender_address}\n"

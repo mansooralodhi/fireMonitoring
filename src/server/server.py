@@ -3,9 +3,9 @@ from flask import Flask, render_template, jsonify
 from datetime import datetime
 
 
-from package.email_module.email_notifier import EmailNotifier
-from package.camera_module.camera_thread import CameraThread
-from package.mcu_module.mcu_thread import McuThread
+from src.email_module.email_notifier import EmailNotifier
+from src.camera_module.camera_thread import CameraThread
+from src.mcu_module.mcu_thread import McuThread
 
 
 
